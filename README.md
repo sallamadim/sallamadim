@@ -1,31 +1,10 @@
-### Hello there I'm Mehmethan!
-
-## I'm a Node.JS programmer.
-
-### Links:
-
- [Github](https://github.com/sallamadim)
-
- [Discord](https://discord.com/users/755325329005871144)
-
- [Website](https://site-rise.glitch.me/home-page.html)
-
-### Programs:
-
-### [Visual Studio Code](https://code.visualstudio.com/)
-### [Node.JS](https://nodejs.org/en/)
-
-### Languages:
-
-### *Javascript*
-### *Html*
-### *Pyhton*
-
-## Github Stats:
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="sallamadim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sallamadim&show_icons=true&hide_border=true" />
-
-</details>
+<h2 align="center">Hi there 👋</h2>
+<p align="center">
+ <a href="https://discord.com/oauth2/authorize?client_id=780415059016417290&scope=bot&permissions=8" target="_blank">Panco (not done yet)</a>,
+<a href="discord.com/users/755325329005871144" target="_blank">Discord</a>,
+<a href="https://discord.gg/uwTtm3TG3n" target="_blank">Turkey Bot List</a>,
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sallamadim&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallamadim&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+</p>
